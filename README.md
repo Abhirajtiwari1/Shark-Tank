@@ -1,4 +1,5 @@
-# Welcome To SharkTank India
+# Welcome To SharkTank India 
+![Cover Image](./)
 ## Description:
 "With the arrival of Shark Tank in India, the number of entrepreneurs pitching their ideas on the show has increased significantly. Inspired by this trend, I created a simple landing page using HTML and CSS."
 ## Features:
@@ -34,5 +35,5 @@ Ensure you have the following installed on your local machine:
 
 2. **Open the file**
 ```sh
-open practice.html
+open practice2.html
 ```
