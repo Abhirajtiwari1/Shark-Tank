@@ -32,6 +32,7 @@ Ensure you have the following installed on your local machine:
    ```bash
    git clone https://github.com/yourusername/portfolio.git
 
-2. **Navigate to the project directory**
+2. **Open the file**
 ```sh
-cd
+open practice.html
+```
