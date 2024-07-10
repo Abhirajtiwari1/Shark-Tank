@@ -1,5 +1,5 @@
 # Welcome To SharkTank India 
-![Cover Image](./)
+![Cover Image](./sharktank.jpg)
 ## Description:
 "With the arrival of Shark Tank in India, the number of entrepreneurs pitching their ideas on the show has increased significantly. Inspired by this trend, I created a simple landing page using HTML and CSS."
 ## Features:
